@@ -1,0 +1,714 @@
+<HTML>
+<HEAD><head><title>Welcome to Indian Railway Passenger reservation Enquiry</title><link href="http://www.indianrail.gov.in/css/rail-style.css"rel="stylesheet" type="text/css" /><script type="text/javascript" src="http://www.indianrail.gov.in/js/menuContents.js"></script> <script type="text/javascript" src="http://www.indianrail.gov.in/js/subMenu.js"></script></head><body><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top"><table width="970" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top"><table width="970" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="http://www.indianrail.gov.in/images/blank.gif" alt="" width="1" height="4" /></td></tr><tr><td align="left" valign="top"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td width="92" align="center" valign="middle"><img src="http://www.indianrail.gov.in/images/rail_logo_new_red.gif" vspace="2" alt="Rail Logo"/></td><td width="701" align="center" valign="center"><b><FONT color="#990000" size="4">INDIAN RAILWAYS PASSENGER RESERVATION ENQUIRY</b></FONT></td><td width="84" align="center" valign="middle"><a href="../index.html" onclick="resetButton()" >Home</a><br><a href="../hindex.html" target="_blank">Hindi Version</a></td><td width="76" align="right" valign="middle" ><img src="http://www.indianrail.gov.in/images/cris_red.gif" alt="Cris"  /></td></tr></table></td></tr><tr><td align="center" valign="top"><table width="970" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top" width="970"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td width="206" align="left" valign="top"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" valign="top"><img src="http://www.indianrail.gov.in/images/blank.gif" alt="" width="1" height="23" /></td></tr><tr><td align="center" valign="top"><table width="100%"><tr><td bgcolor="#c01921"><font size="2" color="#ffffff"><b>Services</b></font></td></tr></table></td></tr><tr><td align="center" valign="top" class="menu-tile_rail"><table width="206" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" valign="top" class="pad_self"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top"><img src="http://www.indianrail.gov.in/images/menu_top_red.gif" alt="" width="197" height="17" /></td></tr><tr><td align="center" valign="top"><table width="197" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top" class="menu-tile_rail_inside"><table width="178" border="0" cellspacing="0" cellpadding="0"><tr align="left" valign="top"><td class="link-main-menu"><a href="#" class="menuanchorclass someotherclass" rel="anylinkmenu2[over]" rev="lr">Availability  at Major Stations</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="../train_Schedule.html" onclick="resetButton()">Train Schedule</a><a href="../stn_code.html"></a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="../tatkal_Scheme.html" onclick="resetButton()">Tatkal Scheme</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="../upgraded_Passengers_List.html" onclick="resetButton()">Upgraded Passenger Scheme</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="../sms_Service.html" onclick="resetButton()">SMS Service</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="../dont_Know_Station_Code.html">Train Berth Availability </a></td></tr></table></td></tr></table></td></tr><tr><td align="center" valign="top"><img src="http://www.indianrail.gov.in/images/menu_bottom.gif" alt="" width="197" height="17" /></td></tr><tr><td align="center" valign="top"><table width="100%%"><tr><td bgcolor="c01921"><font size="2" color="ffffff"><b>Information</b></font></td></tr></table></td></tr><tr><td align="center" valign="top"><table width="197" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top"><img src="http://www.indianrail.gov.in/images/menu_top_red.gif" alt="" width="197" height="17" /></td></tr><tr><td align="center"valign="top"><table width="197" border="0" cellspacing="0" cellpadding="0"><tr><td align="center" valign="top" class="menu-tile_rail_inside"><table width="178" border="0" cellspacing="0" cellpadding="0"><tr align="left" valign="top"><td class="link-main-menu"><a href="http://www.trainenquiry.com" target="_blank">Train Running Information</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="#" class="menuanchorclass someotherclass" rel="anylinkmenu5[over]" rev="lr">Train Type Information</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="#" class="menuanchorclass someotherclass" rel="anylinkmenu3[over]" rev="lr">View Codes</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="http://www.indianrailways.gov.in/indianrailways/directorate/coaching/index.jsp" target="_blank">Trains at a Glance </a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="#" class="menuanchorclass someotherclass" rel="anylinkmenu4[over]" rev="lr">Rules</a></td></tr><tr align="left" valign="top"> <td class="link-main-menu"><a href="../international_Tourist.html" onclick="resetButton()">International Tourists</a></td></tr><tr align="left" valign="top"><td class="link-main-menu"><a href="../other_Rly_Sites.html" onclick="resetButton()">Other Railway Websites</a></td></tr></table></td></tr></table></td></tr><tr><td align="center"valign="top"><img src="http://www.indianrail.gov.in/images/menu_bottom.gif" alt="" width="197" height="17" /></td></tr></table></td></tr></table></td></tr></table></td></tr><tr><td align="left" valign="top" width="206"><img src="http://www.indianrail.gov.in/images/main_menu_bottom.gif" alt="" width="206" height="9" /></td></tr></table></td><td width="764" align="left" valign="top"><table width="764" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" valign="top"><table width="764" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" valign="top" ><table width="745" bgcolor="#c01921" border="0" cellspacing="0" cellpadding="0"><tr><td width="67"class="link-main-look" align="center" valign="top" ><a href="../pnr_Enq.html" >PNR Status</a></td><td width="188" valign="top" align="center" class="link-main-look" align="top"><a href="../between_Imp_Stations.html">Train Between Important Stations</a></td><td width="91" align="center" class="link-main-look"  valign="top"><a href="../seat_Avail.html">Seat Availability</a></td><td width="100" align="center" class="link-main-look" valign="top"><a href="../fare_Enq.html">Fare Enquiry</a></td><td width="160" align="center" class="link-main-look" valign="top"><a href="http://www.irctc.co.in"  target="_blank">Internet Reservation</a></td></tr></table></td></tr></table></td></tr><tr><td width="764"align="left" valign="top">
+
+<link href="http://www.indianrail.gov.in/cris_google.css" media="all" rel="Stylesheet" type="text/css" />
+<Title>TRAIN NUMBERS</Title>
+<HEAD>
+<style type = "text/css">body {
+        background-image:url(http://www.indianrail.gov.in/images/main_bg.gif);
+		background-color:#FFFFFF;
+		margin: 0px;
+        padding: 0px;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+		font-size:11px;
+		font-weight:normal;
+		color:#000000;		
+		background-repeat:repeat-x;
+		scrollbar-darkshadow-color: #00ffff ;
+}
+
+.pad_self{
+padding-left:1px;
+padding-right:1px;
+}
+
+.text_rail_top{
+		background-image:url(http://www.indianrail.gov.in/images/main_text_top_tile.gif);	
+		height:8px;		
+		background-repeat:repeat-x;
+}
+
+.text_rail_bottom{
+		background-image:url(http://www.indianrail.gov.in/images/main_text_bottom_tile.gif);	
+		height:8px;		
+		background-repeat:repeat-x;
+}
+
+.text_rail_left{
+		background-image:url(http://www.indianrail.gov.in/images/main_text_left_tile.gif);	
+		width:7px;		
+		background-repeat:repeat-y;
+}
+
+.text_rail_right{
+		background-image:url(http://www.indianrail.gov.in/images/main_text_rgt_tile.gif);	
+		width:7px;		
+		background-repeat:repeat-y;
+}
+
+.text_back_color{
+background-color:#FFFFFF;
+}
+
+.main_body_text{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:normal;
+color:#352e17;
+text-align:justify;
+line-height:17px;
+padding-left:4px;
+padding-right:4px;
+}
+
+.main_text{
+font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+font-weight:normal;
+color:#352e17;
+text-align:justify;
+line-height:17px;
+padding-left:4px;
+padding-right:4px;
+}
+
+.inside_heading_text{
+font-family:Arial, Helvetica, sans-serif;
+font-size:17px;
+font-weight:bold;
+color:#352e17;
+padding-left:3px;
+
+}
+
+input {
+    font-family:Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	border: 1px solid #352e17;
+} 
+
+.btn_style {
+    background-image:url(http://www.indianrail.gov.in/images/btn_tile.gif);
+	height:23px;
+    font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	border: 1px solid #7b070e;
+} 
+
+.link-click{
+   font-family:Arial, Helvetica, sans-serif;	
+	color:#CD745A;	
+	text-shadow:#0066CC;
+	background-repeat: no-repeat;
+	font-size:11px;
+	font-weight:bold;	
+	text-align: left;
+	padding-top: 2px;
+	padding-bottom: 2px;	
+	text-decoration:none;	
+}
+.link-click  a{
+	color:#FF6600;
+	text-shadow:#0066CC;	
+	text-decoration:none;	
+}
+.link-click  a:hover{
+	color:#000000;
+	text-shadow:#0066CC;
+	text-decoration:none;		
+}
+
+.border{
+border:#7b070e dotted 1px;
+}
+
+.text_input {
+    font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	border: 1px solid #352e17;
+} 
+
+/* ######### CGI Table Class ######### */
+
+.Enq_heading{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+padding-top:3px;
+padding-bottom:3px;
+color:#a21921;
+font-weight:bold;
+}
+
+.heading_table_top{
+background-color:#a21921;
+padding-top:3px;
+padding-bottom:3px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+font-weight:bold;
+font-size:12px;
+text-align:center;
+}
+
+.heading_table{
+background-color:#c4948e;
+padding-top:3px;
+padding-bottom:3px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+font-weight:bold;
+font-size:12px;
+text-align:center;
+}
+
+.table_border{
+border:solid #993300 1px;
+}
+
+
+.table_border_both_center{
+border:solid #993300 1px;
+padding-top:3px;
+padding-bottom:3px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+}
+
+.table_border_both_left{
+border:solid #993300 1px;
+padding-top:3px;
+padding-bottom:3px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:left;
+}
+
+.table_border_left{
+border:solid #993300 1px;
+padding-top:3px;
+padding-bottom:3px;
+padding-left:3px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:left;
+}
+ 
+.table_border_both{
+border:solid #993300 1px;
+padding-top:3px;
+padding-bottom:3px;
+padding-left:3px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+}
+}
+
+</style>
+</HEAD>
+ <BODY>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="10" align="left" valign="top"><img src="http://www.indianrail.gov.in/main_text_left_top2.gif" alt="" width="8" height="8"></td> 
+<td width="100%" align="left" valign="top" class="text_rail_top"><img src="http://www.indianrail.gov.in/blank.gif" alt="" width="1" height="8"></td>
+<td width="10" align="right" valign="top"><img src="http://www.indianrail.gov.in/main_text_rgt_top2.gif"alt="" width="8" height="8" ></td>
+</tr>
+<tr>
+<td height="400" align="right" valign="top" class="text_rail_left"></td>
+<td width="100%" align="left" valign="top" class="text_back_color"><table border="0" cellPadding="0" cellSpacing="0" width="100%"><tr>
+<td align="left" valign="top"><table width="100%" border="0" cellspacing="2" cellpadding="0"><tr>      <td align="middle">        <FONT SIZE = "1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        Indian Railways Online Website: <b><a TITLE = "Passenger Reservation System - CONCERT" href="http://www.indianrail.gov.in/index.html" target="_blank">http://www.indianrail.gov.in</b></a>  designed and hosted by CRIS.</FONT>      </td></tr></table></td>
+</tr><tr>
+<td width="100%" align="left" align="top"><table width="100%" border="0" cellspacing="2" cellpadding="0">
+<tr>
+<td align="center" valign="top" class="inside_heading_text">TRAIN ROUTE</td>
+<td align="center" valign="top" width="160" rowspan="10">
+<script type='text/javascript' src='http://j.admagnet.net/panda/js/Travel-160x600/IndianRail-TrainSchedule-Result-Right-English_160x600_1260415861.js?'></script><noscript><a href='http://n.admagnet.net/panda/www/delivery/ck.php?n=ab13b75a&amp;cb=664378969' target='_blank'><img src='http://n.admagnet.net/panda/www/delivery/avw.php?zoneid=3742&amp;n=ab13b75a' border='0' alt='' /></a></noscript></td>
+<tr><td align="center" valign="top">&nbsp;</td></tr>
+<tr>
+<td align="center" valign="top"><span class="Enq_heading">You Queried For</span></td>
+</tr>
+ <td valign="top"><table width="90%" border="1" bordercolor="993300" align="center" cellpadding="3" cellspacing="1" class="table_border_both">
+<TR class="heading_table_top">
+<Td>Train No</Td>
+<Td>Train Name</Td>
+<Td>Runs From Source</Td>
+<Td COLSPAN=7>Runs On</Td>
+</TR>
+<TR>
+<TD> 84369</TD>
+<TD>TRIBENI EXPRESS</TD>
+<TD>BARWADIH JN    </TD>
+<TD>MON </TD>
+<TD>TUE </TD>
+<TD>WED </TD>
+<TD>THU </TD>
+<TD>FRI </TD>
+<TD>SAT </TD>
+<TD>SUN </TD></TR>
+</TABLE></td></tr>
+<tr><td>&nbsp;</td></tr>
+<TR><td align="center"><table width="90%" border="1" bordercolor="993300" align="center" cellpadding="3" cellspacing="1" class="table_border_both">
+<TR class="heading_table_top">
+<TH width="6%">SNo</TH>
+<TH width="9%">Stn Code</TH>
+<TH width="17%">Stn Name</TH>
+<TH width="9%">Route No.</TH>
+<TH width="9%">Arrival Time</TH>
+<TH width="9%">Dep. Time</TH>
+<TH width="15%">Halt Time (In Minutes)</TH>
+<TH width="9%">Distance</TH>
+<TH width="6%">Day</TH>
+<TH width="20%">Remark</TH>
+</TR>
+<TR>
+<TD>1</TD>
+<TD>BRWD</TD>
+<TD>BARWADIH JN    </TD>
+<TD>1</TD>
+<TD><FONT COLOR = red>Source</TD>
+<TD>15:30</TD>
+<TD></TD>
+<TD>0</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>2</TD>
+<TD>DTO </TD>
+<TD>DALTONGANJ     </TD>
+<TD>1</TD>
+<TD>15:54</TD>
+<TD>15:59</TD>
+<TD>5:00</TD>
+<TD>28</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>3</TD>
+<TD>GHD </TD>
+<TD>GARWA ROAD     </TD>
+<TD>1</TD>
+<TD>16:38</TD>
+<TD>16:43</TD>
+<TD>5:00</TD>
+<TD>61</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>4</TD>
+<TD>GHQ </TD>
+<TD>GARHWA         </TD>
+<TD>1</TD>
+<TD>16:54</TD>
+<TD>16:55</TD>
+<TD>1:00</TD>
+<TD>71</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>5</TD>
+<TD>MQX </TD>
+<TD>MERALGRAM      </TD>
+<TD>1</TD>
+<TD>17:09</TD>
+<TD>17:10</TD>
+<TD>1:00</TD>
+<TD>82</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>6</TD>
+<TD>NUQ </TD>
+<TD>NAGAR UNTARI   </TD>
+<TD>1</TD>
+<TD>17:32</TD>
+<TD>17:33</TD>
+<TD>1:00</TD>
+<TD>105</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>7</TD>
+<TD>WDM </TD>
+<TD>WYNDHAMGANJ    </TD>
+<TD>1</TD>
+<TD>17:45</TD>
+<TD>17:46</TD>
+<TD>1:00</TD>
+<TD>117</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>8</TD>
+<TD>DXN </TD>
+<TD>DUDDHINAGAR    </TD>
+<TD>1</TD>
+<TD>18:09</TD>
+<TD>18:10</TD>
+<TD>1:00</TD>
+<TD>139</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>9</TD>
+<TD>RNQ </TD>
+<TD>RENUKUT        </TD>
+<TD>1</TD>
+<TD>18:43</TD>
+<TD>18:44</TD>
+<TD>1:00</TD>
+<TD>161</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>10</TD>
+<TD>CPU </TD>
+<TD>CHOPAN         </TD>
+<TD>1</TD>
+<TD>20:30</TD>
+<TD>21:00</TD>
+<TD>30:00</TD>
+<TD>202</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>11</TD>
+<TD>AGY </TD>
+<TD>AGORI KHAS     </TD>
+<TD>1</TD>
+<TD>21:14</TD>
+<TD>21:15</TD>
+<TD>1:00</TD>
+<TD>212</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>12</TD>
+<TD>CUK </TD>
+<TD>CHURK          </TD>
+<TD>1</TD>
+<TD>21:37</TD>
+<TD>21:38</TD>
+<TD>1:00</TD>
+<TD>224</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>13</TD>
+<TD>RBGJ</TD>
+<TD>ROBERTS GANJ   </TD>
+<TD>1</TD>
+<TD>21:53</TD>
+<TD>21:54</TD>
+<TD>1:00</TD>
+<TD>229</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>14</TD>
+<TD>LUSA</TD>
+<TD>LUSA           </TD>
+<TD>1</TD>
+<TD>22:42</TD>
+<TD>22:43</TD>
+<TD>1:00</TD>
+<TD>264</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>15</TD>
+<TD>SKGH</TD>
+<TD>SAKTESGARH     </TD>
+<TD>1</TD>
+<TD>23:11</TD>
+<TD>23:12</TD>
+<TD>1:00</TD>
+<TD>284</TD>
+<TD>1</TD>
+</TR>
+<TR>
+<TD>16</TD>
+<TD>CAR </TD>
+<TD>CHUNAR         </TD>
+<TD>1</TD>
+<TD>00:09</TD>
+<TD>00:10</TD>
+<TD>1:00</TD>
+<TD>305</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>17</TD>
+<TD>MZP </TD>
+<TD>MIRZAPUR       </TD>
+<TD>1</TD>
+<TD>00:44</TD>
+<TD>00:45</TD>
+<TD>1:00</TD>
+<TD>336</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>18</TD>
+<TD>BDL </TD>
+<TD>VINDHYACHAL    </TD>
+<TD>1</TD>
+<TD>00:57</TD>
+<TD>00:58</TD>
+<TD>1:00</TD>
+<TD>344</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>19</TD>
+<TD>MJA </TD>
+<TD>MEJA ROAD      </TD>
+<TD>1</TD>
+<TD>01:32</TD>
+<TD>01:33</TD>
+<TD>1:00</TD>
+<TD>388</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>20</TD>
+<TD>NYN </TD>
+<TD>NAINI          </TD>
+<TD>1</TD>
+<TD>02:05</TD>
+<TD>02:07</TD>
+<TD>2:00</TD>
+<TD>419</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>21</TD>
+<TD>ALD </TD>
+<TD>ALLAHABAD JN   </TD>
+<TD>1</TD>
+<TD>02:30</TD>
+<TD>03:05</TD>
+<TD>35:00</TD>
+<TD>426</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>22</TD>
+<TD>PRG </TD>
+<TD>PRAYAG         </TD>
+<TD>1</TD>
+<TD>03:18</TD>
+<TD>03:19</TD>
+<TD>1:00</TD>
+<TD>432</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>23</TD>
+<TD>PFM </TD>
+<TD>PHAPHAMAU JN   </TD>
+<TD>1</TD>
+<TD>03:37</TD>
+<TD>03:38</TD>
+<TD>1:00</TD>
+<TD>439</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>24</TD>
+<TD>LGO </TD>
+<TD>LALGOPALGANJ   </TD>
+<TD>1</TD>
+<TD>04:04</TD>
+<TD>04:05</TD>
+<TD>1:00</TD>
+<TD>467</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>25</TD>
+<TD>KHNM</TD>
+<TD>KUNDA HARNAMGNJ</TD>
+<TD>1</TD>
+<TD>04:20</TD>
+<TD>04:21</TD>
+<TD>1:00</TD>
+<TD>481</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>26</TD>
+<TD>GRMR</TD>
+<TD>GARHI MANIKPUR </TD>
+<TD>1</TD>
+<TD>04:33</TD>
+<TD>04:34</TD>
+<TD>1:00</TD>
+<TD>493</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>27</TD>
+<TD>PQN </TD>
+<TD>PARIAWAN K.K.RD</TD>
+<TD>1</TD>
+<TD>04:42</TD>
+<TD>04:43</TD>
+<TD>1:00</TD>
+<TD>500</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>28</TD>
+<TD>UCR </TD>
+<TD>UNCHAHAR JN    </TD>
+<TD>1</TD>
+<TD>04:55</TD>
+<TD>04:56</TD>
+<TD>1:00</TD>
+<TD>511</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>29</TD>
+<TD>LMN </TD>
+<TD>LACHHMANPUR    </TD>
+<TD>1</TD>
+<TD>05:12</TD>
+<TD>05:13</TD>
+<TD>1:00</TD>
+<TD>528</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>30</TD>
+<TD>RBL </TD>
+<TD>RAE BARELI JN  </TD>
+<TD>1</TD>
+<TD>05:35</TD>
+<TD>05:40</TD>
+<TD>5:00</TD>
+<TD>549</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>31</TD>
+<TD>HCP </TD>
+<TD>HARCHANDPUR    </TD>
+<TD>1</TD>
+<TD>05:57</TD>
+<TD>05:58</TD>
+<TD>1:00</TD>
+<TD>564</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>32</TD>
+<TD>BCN </TD>
+<TD>BACHHRAWAN     </TD>
+<TD>1</TD>
+<TD>06:21</TD>
+<TD>06:22</TD>
+<TD>1:00</TD>
+<TD>580</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>33</TD>
+<TD>NHN </TD>
+<TD>NIGOHAN        </TD>
+<TD>1</TD>
+<TD>06:35</TD>
+<TD>06:36</TD>
+<TD>1:00</TD>
+<TD>591</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>34</TD>
+<TD>LKO </TD>
+<TD>LUCKNOW NR     </TD>
+<TD>1</TD>
+<TD>08:35</TD>
+<TD>08:45</TD>
+<TD>10:00</TD>
+<TD>627</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>35</TD>
+<TD>SAN </TD>
+<TD>SANDILA        </TD>
+<TD>1</TD>
+<TD>09:34</TD>
+<TD>09:35</TD>
+<TD>1:00</TD>
+<TD>675</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>36</TD>
+<TD>HRI </TD>
+<TD>HARDOI         </TD>
+<TD>1</TD>
+<TD>10:19</TD>
+<TD>10:20</TD>
+<TD>1:00</TD>
+<TD>729</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>37</TD>
+<TD>SPN </TD>
+<TD>SHAHJEHANPUR   </TD>
+<TD>1</TD>
+<TD>11:25</TD>
+<TD>11:30</TD>
+<TD>5:00</TD>
+<TD>791</TD>
+<TD>2</TD>
+</TR>
+<TR>
+<TD>38</TD>
+<TD>BE  </TD>
+<TD>BAREILLY       </TD>
+<TD>1</TD>
+<TD>12:35</TD>
+<TD><FONT COLOR = red>Destination</TD>
+<TD></TD>
+<TD>862</TD>
+<TD>2</TD>
+</TR>
+</TABLE></td></tr>
+</TABLE></td></tr>
+<tr><td>
+<table width="75%">
+</table></td></tr>
+<tr><td align="center">
+<script type='text/javascript' src='http://j.admagnet.net/panda/js/Travel-468x60/IndianRail-TrainSchedule-Result-Bottom-English_468x60_1260416065.js?'></script><noscript><a href='http://n.admagnet.net/panda/www/delivery/ck.php?n=a747baf3&amp;cb=493866743' target='_blank'><img src='http://n.admagnet.net/panda/www/delivery/avw.php?zoneid=3743&amp;n=a747baf3' border='0' alt='' /></a></noscript>
+</td></tr></TABLE></td>
+<td align="left" valign="top" class="text_rail_right">&nbsp;</td>
+</tr>
+<tr>
+<td width="10" align="left" valign="top"><img src="http://www.indianrail.gov.in/main_text_left_bottom2.gif" alt="" width="8"/></td>
+<td width="100%" align="left" valign="top" class="text_rail_bottom"><img src="http://www.indianrail.gov.in/blank.gif" alt="" width="1" height="8" /></td>
+<td width="10" align="right" valign="top"> <img src="http://www.indianrail.gov.in/main_text_right_bottom2.gif" alt="" width="8" /></td>
+</tr></table>
+<script type='text/javascript' src='http://n.admagnet.net/panda/www/delivery/apu.php?n=&zoneid=3804&target=_blank&cb=INSERT_RANDOM_NUMBER_HERE&popunder=1&left=200&top=200'></script><body>
+<FONT size=1>No. of Queries :  0154972162
+, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Server : KESHAV 
+, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dated : 08-10-2013 Time:05:37:23 Hrs</font></td></tr></table></td></tr> </table></td></tr></table></td></tr></table></td></tr><tr><td align="left"valign="top"><table width="970" border="0" cellspacing="0" cellpadding="0"><tr> <td width="9" align="left" valign="top"><img src="http://www.indianrail.gov.in/images/footer_upper_lft.gif" alt="" width="9" height="49" /></td><td width="100%%" align="left" valign="top" class="footer_upper"><table width="100%%" border="0" cellspacing="1" cellpadding="0"><tr><td align="center" valign="top" class="main_footer_upper"><a href="../index.html"  onclick="resetButton()">Home </a> | <a href="http://www.indianrailways.gov.in/railwayboard/" target="_blank">Ministry of Railways</a> |      <a href="../know_Station_Code.html" onclick="resetButton()">Trains between Stations</a> | <a href="../booking_Location.html" onclick="resetButton()">Booking Locations</a> | <a href="http://www.cris.org.in/" target="_blank">CRIS</a> | <a href="../about_Concert.html"  onclick="resetButton()">CONCERT</a> | <a href="../advertisement.html"  onclick="resetButton()">Advertise with CRIS</a> | <a href="http://www.indianrail.gov.in/images/rail-map.jpg" target="_blank">Railway Map</a> | <a href="../faq.html"  onclick="resetButton()">FAQ</a> | <a href="../sitemap.html"  onclick="resetButton()">Sitemap</a> | <a href="http://www.trainenquiry.com/Feedback.aspx" target="_blank" onclick="resetButton()">Feedback</a></td></tr><tr><td align="center"valign="top" class="copy_footer" style="padding-top:3px;"><span class="main_footer_copy"><a href="../copyright.html"  onclick="resetButton()">Copyright</a></span> &copy; 2010, Centre For Railway Information Systems, Designed and Hosted by CRIS | <span class="main_footer_copy"><a href="../disclaimer.html" onclick="resetButton()">Disclaimer</a></span><br />Best viewed at 1024 x 768 resolution with Internet Explorer 5.0 or Mozila Firefox 3.5 and higher</td></tr> </table></td><td width="9" align="right" valign="top"><img src="http://www.indianrail.gov.in/images/footer_upper_rgt.gif" alt="" width="9" height="49" /></td></tr></table></td></tr></table></td></tr></table><script type="text/javascript">anylinkmenu.init("menuanchorclass")</script>
+</BODY>
+</HTML>
